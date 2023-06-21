@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-xxx
-isis cambio
-=======
 mi cambio isis
-
->>>>>>> ce6d4a5bf74e12301b4cd615040a0b1c011a0a15
