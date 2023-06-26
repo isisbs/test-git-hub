@@ -112,5 +112,9 @@ body {
     size: 32px;	
     text-align: left;
   }
-  
+  #title
+{
+   size: 32px;	
+    color: white ;
+}
   
