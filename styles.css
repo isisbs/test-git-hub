@@ -10,6 +10,10 @@ body {
   h1,h6 {
     font-weight: normal;
   }
+  #title{
+    font-family: Arial, sans-serif;
+    background-color: rgb(129, 129, 171);
+  }
   
   a {
     text-decoration: none;

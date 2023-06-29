@@ -9,3 +9,5 @@ escribe :wq "W" es de write y "q" de quit
 para que te permita regresar y seguir haciendo el commit en la terminal
 esto nos regresara a la terminal al punto donde nos quedamos despues del commit 
 donde continuaria dando un $ git log  para observar como van los cambios 
+
+PRACTICANDO EN MI BRANCH CON COMANDOS 
