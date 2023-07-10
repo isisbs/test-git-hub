@@ -3,8 +3,8 @@
 body {
     font-family: Arial, sans-serif;
        
-    background-color: plum;
-    padding: 10px;
+    background-color: rgb(96, 178, 203);
+    padding: 20px;
     margin-left: 300px;
     
 
@@ -90,10 +90,14 @@ body {
      
   }
   h1 {
-    color:black;
+    color: white;
     size: 40px;	
     text-align: left;
-    
+    #opinion-label{
+      color: white;
+    size: 32px;	
+    text-align: left;
+    }
 
   }
   #name-label
